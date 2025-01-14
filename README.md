@@ -1,4 +1,4 @@
-# Software for Modelling Tectonics in 3D
+# HPC for understanding large earthquakes
 
 **This study has been published in a Tier-1 peer reviewed journal**, which can be accessed here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022TC007242
 
