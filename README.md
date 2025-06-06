@@ -5,6 +5,10 @@
 This project examines the conditions for big earthquakes through 3D numerical modelling, exploring the trend of spatial stress distribution by testing different physics-based models. Using HPC, NumPy, and data visualization, the project sheds insights into how stresses that emerge from the far regions (up to ~1000 km) may cause big earthquakes in some countries, like Indonesia, forecasting potential regions at risk and controlling factors.
 
 -----------
+## Study Area
+
+![Maps](images/fig1.jpg "Maps")
+
 
 ## Model setup
 
